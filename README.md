@@ -1,6 +1,6 @@
 # Principle-Component-Analysis
 
-Somewhat unsurprisingly, reducing the dimension of the feature space is called “dimensionality reduction.” There are many ways to achieve dimensionality reduction, but most of these techniques fall into one of two classes:  
+Reducing the dimension of the feature space is called “dimensionality reduction.” There are many ways to achieve dimensionality reduction, but most of these techniques fall into one of two classes:  
 1. Feature Elimination 
 2. Feature Extraction 
 
